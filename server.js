@@ -46,7 +46,7 @@ app.use((err, req, res, next) => {
   res.status(500).send('Something broke!');
 });
 
-const db = "mongodb://0.0.0.0:27017/project2"
+const db = "mongodb://0.0.0.0:27017/game_course"
 
   const connectDB = async () => {
     try{
