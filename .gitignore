@@ -1,0 +1,7 @@
+node_modules
+uploads
+data
+logs
+.env
+assets/user_qr.png
+./assets/user_qr.png
